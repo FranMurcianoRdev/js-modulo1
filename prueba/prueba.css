@@ -34,9 +34,6 @@ header h1 {
 }
 
 .card {
-    /* background-color: #f8f9fa;
-    border: 1px solid #dee2e6;
-    border-radius: 8px; */
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -46,11 +43,6 @@ header h1 {
 }
 
 .card img {
-    /* width: 100%;
-    height: auto;
-    display: block;
-    aspect-ratio: 1 / 1; Mantiene la proporción de la imagen */
-    /* object-fit: cover; Ajusta la imagen dentro del contenedor */
     border-radius: 8px 8px;
 }
 
